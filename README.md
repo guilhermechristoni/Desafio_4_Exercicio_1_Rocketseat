@@ -26,10 +26,6 @@ Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀
 Lembre-se de sempre mostrar na tela o resultado de cada uma dessas operações!
 O resultado final desse desafio deve ser algo em torno de:
 
-![](https://imgur.com/gallery/UvaScNl)
+![desafio4](https://user-images.githubusercontent.com/92758108/223775983-15ba4d47-65eb-4eb2-96d6-70dfc49510d4.gif)
 
 E então, topa encarar esse desafio? **💜**
-Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
-
-*****Lembrando*: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** e deixar sua dúvida por lá! 
-Boa sorte e boooooora codar! **🚀**
